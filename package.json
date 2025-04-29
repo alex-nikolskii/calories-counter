@@ -1,0 +1,7 @@
+{
+  "name": "@calories-counter/root",
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "yarn@4.9.1"
+}
